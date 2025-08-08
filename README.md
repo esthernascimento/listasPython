@@ -36,7 +36,8 @@ Cada exemplo está comentado e separado para facilitar o entendimento. Abaixo, u
 ## 💡 Objetivo
 Este material pode ser utilizado para fins didáticos e introdutórios no ensino de programação em Python, especialmente para alunos iniciantes que desejam entender o funcionamento de listas.
 
-## 🧑‍💻 Autor
-Esther Nascimento
-🔗 Seu LinkedIn
-🐙 Seu GitHub
+## 👩‍💻 Desenvolvido por
+
+**Esther Nascimento**  
+[LinkedIn Esther](https://www.linkedin.com/in/esthernascimentooficial/)
+[GitHub Esther](https://github.com/esthernascimento)
